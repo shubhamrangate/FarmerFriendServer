@@ -1,0 +1,110 @@
+[
+    {
+        "_id": "61f4ea228154c8a8b1c07d93",
+        "name": "Onion",
+        "description": "The bright reddish-purple skin makes this onion hard to miss",
+        "image": "images/onion.jpg",
+        "category": "Root Vegetable",
+        "quantity": 100,
+        "price": 30,
+        "manifacturer": {
+            "_id": "61f40bb4c803fc0084a9e714",
+            "farmer": true,
+            "username": "shubham",
+            "__v": 0
+        },
+        "createdAt": "2022-01-29T07:17:54.344Z",
+        "updatedAt": "2022-01-29T07:17:54.344Z",
+        "__v": 0
+    },
+    {
+        "_id": "61f4eae78154c8a8b1c07d98",
+        "name": "Potato",
+        "description": "More than just Potato",
+        "image": "images/potato.jpg",
+        "category": "Root Vegetable",
+        "quantity": 50,
+        "price": 20,
+        "manifacturer": {
+            "_id": "61f40bb4c803fc0084a9e714",
+            "farmer": true,
+            "username": "shubham",
+            "__v": 0
+        },
+        "createdAt": "2022-01-29T07:21:11.326Z",
+        "updatedAt": "2022-01-29T07:21:11.326Z",
+        "__v": 0
+    },
+    {
+        "_id": "61f4eb6d8154c8a8b1c07d9e",
+        "name": "Tomato",
+        "description": "red when mature,Being a fruit, eaten and prepared like a vegetable",
+        "image": "images/tomato.jpg",
+        "category": "Fruit",
+        "quantity": 75,
+        "price": 30,
+        "manifacturer": {
+            "_id": "61f40f9cc803fc0084a9e71b",
+            "farmer": true,
+            "username": "akash",
+            "__v": 0
+        },
+        "createdAt": "2022-01-29T07:23:25.852Z",
+        "updatedAt": "2022-01-29T07:23:25.852Z",
+        "__v": 0
+    },
+    {
+        "_id": "61f4ebe98154c8a8b1c07da4",
+        "name": "Garlic",
+        "description": "Is as Good as Ten Mothers",
+        "image": "images/garlic.jpg",
+        "category": "Plant",
+        "quantity": 30,
+        "price": 50,
+        "manifacturer": {
+            "_id": "61f40fc0c803fc0084a9e71f",
+            "farmer": true,
+            "username": "sumeru",
+            "__v": 0
+        },
+        "createdAt": "2022-01-29T07:25:29.532Z",
+        "updatedAt": "2022-01-29T07:25:29.532Z",
+        "__v": 0
+    },
+    {
+        "_id": "61f4ec058154c8a8b1c07da9",
+        "name": "Cabbage",
+        "description": "Smooth-leafed, firm-headed, leafy green",
+        "image": "images/cabbage.jfif",
+        "category": "Plant",
+        "quantity": 20,
+        "price": 10,
+        "manifacturer": {
+            "_id": "61f40fc0c803fc0084a9e71f",
+            "farmer": true,
+            "username": "sumeru",
+            "__v": 0
+        },
+        "createdAt": "2022-01-29T07:25:57.627Z",
+        "updatedAt": "2022-01-29T07:25:57.627Z",
+        "__v": 0
+    },
+    {
+        "_id": "61f4ec638154c8a8b1c07daf",
+        "name": "Palak",
+        "description": "a leafy green flowering plant native to central and western Asia",
+        "image": "images/palak.png",
+        "category": "Vegetable",
+        "quantity": 50,
+        "price": 10,
+        "manifacturer": {
+            "_id": "61f41003c803fc0084a9e723",
+            "farmer": true,
+            "username": "juber",
+            "__v": 0
+        },
+        "createdAt": "2022-01-29T07:27:31.163Z",
+        "updatedAt": "2022-01-29T07:27:31.163Z",
+        "__v": 0
+    }
+]
